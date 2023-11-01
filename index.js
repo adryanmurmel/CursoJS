@@ -1,1 +1,3 @@
-console.log('Meu nome é "Adryan Murmel". Estou aprendendo JavaScript ás', 10, 'da manhã') 
+// um comentario
+console.log('Olá mundo!');
+console.log('Este trecho será exibido no cosole do navegador!');
