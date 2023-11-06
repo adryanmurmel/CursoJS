@@ -75,9 +75,9 @@ Também falaremos especificamente do Knex, um Query Builder para construir queri
 
 Recentemente adicionamos à grade do curso HTML5 e CSS3 para quem não conhece nada sobre HTML e CSS. Essa seção é um bônus, visto que seria um requisito para aprender JavaScript de maneira eficaz.
 
-*Listagem do conteúdo principal*
+*Listagem do conteúdo principal
 
-Lista do que será ensinado nas seções:
+LISTA DO QUE SERÁ ENSINADO NAS SESSÕES:
 
 -Instalação dos programas utilizados ao longo do curso (Node, Visual Studio Code e mais)
 
